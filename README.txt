@@ -1,0 +1,8 @@
+Kamilah Mitchell 
+Week 1 Assignment
+
+	To complete this assignment, I created a Game of Thrones vocal recognition quiz. The concept was to devise a game utilizing the audio file playback capabilities in Csound, as well as a synthesizer. 
+	Once compiled and ran, program opens with a welcome screen accompanied by the CsoundSynthesizer playing the chord tones of an A minor chord sequentially, then simultaneously.
+	The game has one menu in which the player is prompted to choose one of 9 kingdoms. Each kingdom has one multiple choice question to answer after playing a short recording of a character from that kingdom. If the user answers correctly, a message is printed on the console informing the user of their correct answer and immediately asks the user to play again. If the answer is incorrect, a message informs the user of this and also asks the user to play again. If yes is selected, the game repeats, otherwise the game ends.
+	While programming this game, I learned how to properly declare functions before calling them. I encountered an error message while creating the Stark function that I didn’t understand. After searching the error message on the internet, I came across a forum explaining the error message and how to solve it. This led to me realizing my syntax errors regarding the declarations. Also, I revised the code to separate the main function from the game after realizing that a separate game function would be more beneficial when repeating the game. 
+	I also have learned the basics of how the Csound instruments work inside the program.
